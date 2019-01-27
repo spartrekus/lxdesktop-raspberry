@@ -1,3 +1,3 @@
 # lxdesktop-raspberry
 
-COnfig
+Config
